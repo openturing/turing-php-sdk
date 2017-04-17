@@ -1,7 +1,7 @@
 {
     "name": "viglet/turing",
     "description":"Viglet Turing API for PHP",
-    "keywords":["viglet","turing","auth2"],
+    "keywords":["viglet","turing","auth2","artificial intelligence", "nlp", "machine learning"],
     "type":"library",
     "license":"MIT",
     "authors":[
