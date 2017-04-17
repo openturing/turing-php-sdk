@@ -1,0 +1,21 @@
+{
+    "name": "viglet/turing",
+    "description":"Viglet Turing API for PHP",
+    "keywords":["viglet","turing","auth2"],
+    "type":"library",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Alexandre Oliveira",
+            "email": "alexandre.oliveira@viglet.com",
+            "homepage":"https://viglet.ai"
+        }
+    ],
+    "homepage": "https://github.com/openviglet/turing-php-sdk",
+    "require":{
+        "php":">=5.3.9"
+    },
+    "autoload": {
+        "psr-0": { "Turing": "src/" }
+    }
+}
