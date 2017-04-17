@@ -2,3 +2,6 @@
 
 # turing-php-sdk
 PHP Library to access Viglet Turing
+
+## Installation ##
+`composer require viglet/turing`
